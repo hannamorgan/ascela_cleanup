@@ -8,7 +8,7 @@ The ascela_clean.py script performs the following tasks:
 3. Renames or removes unnecessary columns based on custom logic.
 4. Outputs a cleaned version of the report.
 
-The result is a cleaner, more usable version of the original report suitable for importing into databases or reporting tools.
+The result is a cleaner more usable version of the original report suitable for importing into databases or reporting tools.
 
 # File Setup
 Place your original Excel report file (e.g., Ascela Monthly Production Report.xlsx) inside a folder named raw located in the same directory as the script.
@@ -21,7 +21,7 @@ Place your original Excel report file (e.g., Ascela Monthly Production Report.xl
 └── raw/
     └── Ascela Monthly Production Report.xlsx
 
-The script expects the file to be in raw/ and uses a hardcoded file path—so naming and location matter.
+The script expects the file to be in raw and uses a hardcoded file path so naming and location matter.
 
 # How to Run
 Open a terminal or command prompt.
